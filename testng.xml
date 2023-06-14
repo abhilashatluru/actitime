@@ -1,0 +1,15 @@
+
+<suite name="Suite">
+  <test  name="TestLocal">
+  <parameter name="property" value="config.properties"/>
+    <packages>
+      <package name="test"/>
+    </packages>
+  </test> 
+<!--   <test  name="TestLocal"> -->
+<!--   <parameter name="property" value="qa.properties"/> -->
+<!--     <packages> -->
+<!--       <package name="test"/> -->
+<!--     </packages> -->
+<!--   </test>  -->
+</suite> 
